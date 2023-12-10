@@ -6,7 +6,7 @@ const ImgCard = () => {
       <img
         // src="https://www.escapistmagazine.com/wp-content/uploads/2023/05/guardians-of-the-galaxy-ode-imperfection.jpg?resize=800%2C400"
         src={pxfuel}
-        alt="photo"
+        alt="movie-poster"
       />
       <div className="details">
         <h3>React Movies</h3>
