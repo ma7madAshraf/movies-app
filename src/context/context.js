@@ -78,6 +78,7 @@ const AppProvider = ({ children }) => {
     if (state.search) {
       updateMoviesList();
     }
+    // eslint-disable-next-line
   }, [state.page]);
   return (
     <AppContext.Provider
